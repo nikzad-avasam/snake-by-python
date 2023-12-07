@@ -1,8 +1,10 @@
 '''
-this is snake game by python 
+snake game script in python 
+this game runs in terminal only!
+
 made by sam nikzad 
-website : https://avasam.ir 
-tutorial video :  https://youtu.be/syFMaGvsByw
+tutorial link : https://avasam.ir/post/381/create-snake-game-with-python
+
 '''
 
 import curses
