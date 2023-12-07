@@ -1,4 +1,4 @@
-# snake-by-python
+# اسکریپت بازی مار با زبان پایتون
 Snake game script with python language for tutorial
 
 ---
